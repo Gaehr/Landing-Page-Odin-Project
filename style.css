@@ -1,4 +1,6 @@
-
+.header {
+    display: flex;
+}
 
 .footer {
     position: fixed;
