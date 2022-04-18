@@ -22,6 +22,11 @@ background-color: #1f2937;
 
 button {
     background-color: #3882f6;
+    color: #e5e7eb;
+    font-weight: bolder;
+    font-size: 18px;
+    border-radius: 12px;
+    border-color: #e5e7eb;
 }
 
 .footer {
