@@ -12,9 +12,14 @@ a {
     color: #e5e7eb;
 }
 
+.upper {
+background-color: #1f2937;
+}
+
 .banner {
     display: flex;
 }
+
 
 .footer {
     position: fixed;
