@@ -20,6 +20,9 @@ background-color: #1f2937;
     display: flex;
 }
 
+button {
+    background-color: #3882f6;
+}
 
 .footer {
     position: fixed;
