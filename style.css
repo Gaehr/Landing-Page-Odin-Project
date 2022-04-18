@@ -12,6 +12,10 @@ a {
     color: #e5e7eb;
 }
 
+.banner {
+    display: flex;
+}
+
 .footer {
     position: fixed;
     left: 0;
