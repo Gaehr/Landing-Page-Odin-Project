@@ -27,6 +27,7 @@ button {
     font-size: 18px;
     border-radius: 12px;
     border-color: #e5e7eb;
+    padding: 5px 10px;
 }
 
 .footer {
