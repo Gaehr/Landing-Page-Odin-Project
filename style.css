@@ -6,6 +6,10 @@
 
 }
 
+#image-header {
+    max-width: 100px;
+}
+
 h1 {
     font-weight: extra-bold;
     font-size: 48px;
