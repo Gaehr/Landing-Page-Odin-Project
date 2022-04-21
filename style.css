@@ -50,6 +50,12 @@ button {
     text-align: center;
 }
 
+.qtext {
+    font-size: 36px;
+    font-style: italic;
+    color: #1f2937;
+}
+
 .footer {
     position: fixed;
     left: 0;
