@@ -19,6 +19,8 @@ body {
 img {
     width: 250px;
     height: 250px;
+    border: solid 5px #3882f6;
+    border-radius: 5px;
 }
 
 h1 {
