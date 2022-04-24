@@ -15,6 +15,11 @@ body {
     max-width: 100px;
 }
 
+img {
+    width: 250px;
+    height: 250px;
+}
+
 h1 {
     font-weight: extra-bold;
     font-size: 48px;
@@ -43,6 +48,7 @@ font-size: 18px;
     display: flex;
     align-items: center;
 }
+
 
 .banner {
     display: flex;
