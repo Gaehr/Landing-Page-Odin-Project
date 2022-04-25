@@ -62,6 +62,9 @@ font-size: 18px;
     margin-bottom: 200px;
 }
 
+.description {
+text-align: center;
+}
 
 .banner {
     display: flex;
