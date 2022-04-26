@@ -56,11 +56,12 @@ font-size: 18px;
     display: flex;
     align-items: center;
     justify-content: center;
-    gap: 40px;
     margin-left: 200px;
     margin-right: 200px;
     margin-bottom: 200px;
+    gap: 45px;
 }
+
 
 .description {
 text-align: center;
