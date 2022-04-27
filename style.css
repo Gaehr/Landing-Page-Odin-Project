@@ -25,6 +25,11 @@ ul {
     margin-left: 200px;
 }
 
+#hero-image {
+    width: 550px;
+    height: 300px;
+}
+
 img {
     width: 250px;
     height: 250px;
