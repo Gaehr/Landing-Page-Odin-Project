@@ -93,6 +93,7 @@ max-width: 250px;
     margin-right: 200px;
     margin-top: 60px;
     margin-bottom: 60px;
+    border: solid 20px #3882f6;
 }
 
 button {
