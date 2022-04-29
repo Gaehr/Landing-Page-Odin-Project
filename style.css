@@ -120,13 +120,11 @@ button {
 }
 
 .footer {
-    position: fixed;
-    left: 0;
-    right: 0;
-    bottom: 0;
+    margin-top: auto;
     display: flex;
     justify-content: center;
     align-items: center;
     background-color: #1f2937;
     color: white;
+    padding: 20px;
 }
