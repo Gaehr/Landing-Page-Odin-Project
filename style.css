@@ -46,6 +46,8 @@ h1 {
     font-weight: extra-bold;
     font-size: 48px;
     color: #F9FAF8;
+    margin: 0;
+    padding-top: 20px;
 }
 
 h3 {
@@ -67,7 +69,6 @@ a {
 background-color: #1f2937;
 color: #e5e7eb;
 font-size: 18px;
-
 }
 
 .gallery {
