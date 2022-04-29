@@ -95,6 +95,7 @@ max-width: 250px;
     margin-bottom: 60px;
     border: solid 20px #3882f6;
     border-radius: 5px;
+    align-content: center;
 }
 
 button {
