@@ -101,6 +101,10 @@ max-width: 250px;
     align-content: center;
 }
 
+.call {
+    font-weight: bolder;
+}
+
 .lines {
     margin-left: 100px;
     padding: 20px;
