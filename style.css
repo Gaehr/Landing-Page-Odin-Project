@@ -101,6 +101,8 @@ max-width: 250px;
 
 .lines {
     margin-left: 100px;
+    padding: 20px;
+    line-height: 130%;
 }
 
 button {
