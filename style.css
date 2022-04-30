@@ -113,6 +113,10 @@ max-width: 250px;
     
 }
 
+.sign {
+    margin-left: 370px;
+}
+
 button {
     background-color: #3882f6;
     color: #e5e7eb;
