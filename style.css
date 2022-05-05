@@ -152,6 +152,8 @@ button {
 
 .author {
     font-weight: bolder;
+    text-align: end;
+    margin-right: 320px;
 }
 
 .footer {
