@@ -146,6 +146,8 @@ button {
     font-style: italic;
     color: #1f2937;
     text-align: left;
+    max-width: 1100px;
+    margin-left: 190px;
 }
 
 .footer {
