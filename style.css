@@ -150,6 +150,10 @@ button {
     margin-left: 190px;
 }
 
+.author {
+    font-weight: bolder;
+}
+
 .footer {
     margin-top: auto;
     display: flex;
