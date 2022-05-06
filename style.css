@@ -78,7 +78,9 @@ display: grid;
 grid-template-columns: 1fr 1fr;
 }
 
-
+.box {
+    margin-left: 150px;
+}
 
 .gallery {
     display: flex;
