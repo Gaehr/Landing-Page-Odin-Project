@@ -155,6 +155,10 @@ button {
     padding: 5px 10px;
 }
 
+button:hover {
+    box-shadow: 0 0px 5px orange;
+}
+
 .quote {
     background-color: #e5e7eb;
     text-align: center;
