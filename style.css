@@ -74,6 +74,7 @@ color: #e5e7eb;
 font-size: 18px;
 padding: 100px;
 display: grid;
+grid-template-columns: 1fr 1fr;
 }
 
 
