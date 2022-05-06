@@ -82,6 +82,12 @@ display: grid;
 grid-template-columns: 1fr 1fr;
 }
 
+@supports (-moz-appearance:none) {
+    .third { 
+     padding-bottom: 20px;
+    } 
+}
+
 .box {
     margin-left: 150px;
 }
