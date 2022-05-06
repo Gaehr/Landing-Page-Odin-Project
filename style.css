@@ -40,9 +40,9 @@ ul {
 }
 
 .herobutton {
-    border: none;
+    border: transparent;
     padding-left: 20px;
-    padding-right: 20px
+    padding-right: 20px;
 }
 
 img {
