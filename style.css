@@ -43,6 +43,7 @@ ul {
     border: transparent;
     padding-left: 20px;
     padding-right: 20px;
+    border-radius: 5px;
 }
 
 img {
