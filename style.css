@@ -39,6 +39,10 @@ ul {
     margin-left: 150px;
 }
 
+.herobutton {
+    border: none;
+}
+
 img {
     width: 250px;
     height: 250px;
