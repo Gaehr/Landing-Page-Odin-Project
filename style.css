@@ -92,6 +92,12 @@ grid-template-columns: 1fr 1fr;
     } 
 }
 
+@media (-webkit-min-device-pixel-ratio:0)
+{ 
+    .first {
+      padding-top: 22px;
+    }
+  }
 .box {
     margin-left: 150px;
 }
